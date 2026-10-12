@@ -6,23 +6,22 @@ We keep a working index for product and engineering, and public-apis is the entr
 
 ## Images
 
-[![public-apis](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![public-apis](images/preview.png)](https://github.com/Swift-Tech-Co/public-apis)
 
 ## APILayer APIs
 | API | Description | Call this API |
 |:---|:---|:---|
-| IPstack | Locate and Identify Website Visitors by IP Address | [](https://www.swifttechco.com)|
-| Marketstack | Free, easy-to-use REST API interface delivering worldwide stock market data in JSON format | [](https://www.swifttechco.com)|
-| Weatherstack | Retrieve instant, accurate weather information for any location in the world in lightweight JSON format | [](https://www.swifttechco.com)|
-| [Numverify](https://numverify.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers ) | Global Phone Number Validation & Lookup JSON API |[](https://www.swifttechco.com)|
-| Fixer | Fixer is a simple and lightweight API for current and historical foreign exchange (forex) rates. |[](https://www.swifttechco.com)|
-| Aviationstack | Free, real-time flight status and global Aviation data API |[](https://www.swifttechco.com)|
-| Zenserp | Fast, Accurate Google Search Data Built for Developers |[](https://www.swifttechco.com)|
+| IPstack | Locate and Identify Website Visitors by IP Address | [](https://github.com/Swift-Tech-Co/public-apis)|
+| Marketstack | Free, easy-to-use REST API interface delivering worldwide stock market data in JSON format | [](https://github.com/Swift-Tech-Co/public-apis)|
+| Weatherstack | Retrieve instant, accurate weather information for any location in the world in lightweight JSON format | [](https://github.com/Swift-Tech-Co/public-apis)|
+| [Numverify](https://numverify.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers ) | Global Phone Number Validation & Lookup JSON API |[](https://github.com/Swift-Tech-Co/public-apis)|
+| Fixer | Fixer is a simple and lightweight API for current and historical foreign exchange (forex) rates. |[](https://github.com/Swift-Tech-Co/public-apis)|
+| Aviationstack | Free, real-time flight status and global Aviation data API |[](https://github.com/Swift-Tech-Co/public-apis)|
+| Zenserp | Fast, Accurate Google Search Data Built for Developers |[](https://github.com/Swift-Tech-Co/public-apis)|
 | Filestack | Powerful API to upload, transform & deliver any file into your app |Documentation|
 | Screenshotlayer | Capture highly customizable screenshots of any website |Documentation|
 | Exchangerate Host | Real-time current and historical foreign exchange and crypto rates |Documentation|
 | Mailboxlayer | Email Validation & Verification JSON API for Developers |Documentation|
-
 
 <br >
 
@@ -778,7 +777,6 @@ API | Description | Auth | HTTPS | CORS |
 | WebScraping.AI | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes | Yes |
 | XLSX Inspector | Inspect XLSX/XLSM structure: sheets, formulas, macros and external links | No | Yes | Yes |
 | ZenRows | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey` | Yes | Unknown |
-
 
 **[⬆ Back to Index](#index)**
 <br >
@@ -2516,13 +2514,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/public-apis
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [public-apis/public-apis](https://github.com/public-apis/public-apis) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
